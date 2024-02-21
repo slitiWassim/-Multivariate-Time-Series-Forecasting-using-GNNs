@@ -26,8 +26,8 @@ The code can be run with Python 3.6 and above.
 
 Clone this repo:
 
-    git clone https://github.com/vt-le/astnet.git
-    cd /Detection of Anomalies and Abnormal Behavior in Surveillance Videos/code/
+    git clone https://github.com/slitiWassim/Multivariate-Time-Series-Forecasting-using-GNNs.git
+    cd Multivariate-Time-Series-Forecasting-using-GNNs/
 
 Install the required packages:
 
@@ -54,7 +54,7 @@ Install the required packages:
 
 
 ## Contact
-For any question, please file an [issue](https://github.com/vt-le/astnet/issues) or contact:
+For any question, please file an [issue](https://github.com/slitiWassim/Multivariate-Time-Series-Forecasting-using-GNNs/issues) or contact:
 
     wassim.sliti@ept.ucar.tn
 
