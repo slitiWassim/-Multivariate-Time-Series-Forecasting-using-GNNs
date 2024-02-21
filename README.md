@@ -4,7 +4,7 @@
 Graph Neural Networks (GNNs) have emerged as powerful tools for multivariate time series forecasting, particularly in scenarios where the variables exhibit complex interdependencies. By representing the relationships between variables as a graph structure, GNNs excel at capturing intricate patterns and correlations within the data. In the context of multivariate time series forecasting, GNNs can leverage these relationships to learn rich representations of the underlying dynamics, enabling accurate predictions of future values for multiple variables simultaneously. Unlike traditional methods that may struggle to model non-linear or higher-order dependencies, GNNs offer a flexible framework for capturing such complexities, making them well-suited for real-world applications where variables exhibit intricate interconnections. Moreover, GNNs can adaptively learn from the graph structure, allowing them to handle varying degrees of correlation and topology across different datasets. Overall, the use of GNNs in multivariate time series forecasting holds great promise for improving prediction accuracy and capturing the nuanced interactions present in complex systems.
 
   
- <img src='./static/Data_Vis.png' align="center" width="70%">
+ <img src='./static/Data_Vis.png' align="center" width="100%">
 
 
 
@@ -43,7 +43,7 @@ Install the required packages:
 
 ## Evaluation
 
- <img src='./static/RMSE.png' align="center" width="70%">
+ <img src='./static/RMSE.png' align="center" width="100%">
 
 
 
